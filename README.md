@@ -8,3 +8,5 @@ cd registry/
 mkdir data
 docker-compose up -d
 ```
+
+See a list of pushed images: [localhost:5000/v2/_catalog](http://localhost:5000/v2/_catalog)
